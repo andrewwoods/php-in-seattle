@@ -14,7 +14,8 @@ http://example.com
 PHP Tech: e.g. WordPress, Laravel, etc.
 ```
 
-A collection of companies organized alphabetically. Names that begin with a number e.g. 99 Designs, should be organized under **Numbers**. 
+A collection of companies organized alphabetically. Names that begin with a number e.g. 99 Designs, should be 
+organized under **Numbers**. 
 
 
 ## Numbers
@@ -40,11 +41,11 @@ PHP Tech: Laravel, Magento, WooCommerce, WordPress
 
 **CoolBlueWeb** 
 615 2nd Ave 
-#100 
+Suite 100 
 _Seattle_, WA
 
 [http://coolblueweb.com](http://coolblueweb.com) 
-[CoolBlueWeb](https://twitter.com/CoolBlueWeb) 
+[@CoolBlueWeb](https://twitter.com/CoolBlueWeb) 
 
 ## D 
 
@@ -56,8 +57,9 @@ Seattle, WA
 
 **Dyne**
 Seattle, WA
-https://www.dyne.com/
 
+[https://www.dyne.com/](https://www.dyne.com/)
+[@dyne](https://www.twitter.com/dyne)
 
 ## E 
 
@@ -81,11 +83,11 @@ _Seattle_, WA 98108
 
 **iSpot.tv**
 15831 NE 8th St 
-#100
+Suite 100
 Bellevue, WA 98008
 
-**iSpot.tv**
 [iSpot.tv](http://iSpot.tv) 
+[@ispottv](https://twitter.com/ispottv)
 
 ## J 
 
@@ -98,12 +100,13 @@ Bellevue, WA 98008
 
 
 ## M 
+
 **McGraw-Hill Education** 
 Pioneer Square
 Seattle, WA
 
-http://www.mheducation.com/
-[MHEducation](http://twitter.com/MHEducation) 
+[http://www.mheducation.com/](http://www.mheducation.com/)
+[@MHEducation](http://twitter.com/MHEducation) 
 
 
 
@@ -132,7 +135,7 @@ http://www.mheducation.com/
 Suite 200
 Seattle, WA 98103
 
-http://www.tableau.com/
+[http://www.tableau.com/](http://www.tableau.com/)
 [@tableau](http://www.twitter.com/tableau) 
 
 
@@ -161,7 +164,5 @@ http://www.tune.com/
 
 
 ## Z 
-
-
 
 
