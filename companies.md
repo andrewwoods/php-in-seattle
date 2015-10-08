@@ -66,6 +66,22 @@ Seattle, WA
 
 ## F 
 
+**Facebook**
+1730 Minor Ave
+Seattle, Washington
+
+[http://www.facebook.com/](http://www.facebook.com/)
+
+
+
+**Fresh Consulting**
+914 140th Ave NE
+Suite 201
+_Bellevue_, WA 98005
+
+[http://www.freshconsulting.com/](http://www.freshconsulting.com/)
+[@freshconsulting](http://twitter.com/freshconsulting)
+
 
 ## G 
 
@@ -108,7 +124,13 @@ Seattle, WA
 [http://www.mheducation.com/](http://www.mheducation.com/)
 [@MHEducation](http://twitter.com/MHEducation) 
 
+Moz
+1100 2nd Avenue
+Suite 500
+Seattle, WA 98101
 
+[https://moz.com/](https://moz.com/)
+[@moz](http://twitter.com/moz)
 
 ## N 
 
@@ -124,8 +146,21 @@ Seattle, WA
 
 ## R 
 
+**Remitly, Inc.**
+1601 2nd Ave., Suite 700,
+_Seattle_, WA 98101
+
+[https://www.remitly.com](https://www.remitly.com)
+[@remitly](https://twitter.com/remitly)
 
 ## S 
+
+**SiteCrafting, Inc**
+2716 A Street
+Tacoma, WA 98402
+
+[http://www.sitecrafting.com](http://www.sitecrafting.com)
+[sitecrafting](http://www.twitter.com/sitecrafting) 
 
 
 ## T 
@@ -155,6 +190,7 @@ http://www.tune.com/
 
 
 ## W 
+ 
 
 
 ## X 
