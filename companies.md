@@ -29,9 +29,9 @@ Suite # F
 _Mill Creek_, WA 98012
 
 [https://alegion.com/](https://alegion.com/)
-[@twitter](http://twitter.com/alegion) 
+[@Alegion](http://twitter.com/alegion) 
 
-PHP Tech: Laravel, Magento, WooCommerce, WordPress
+PHP Tech: Silex, Restler, Doctrine2, AWS PHP SDK, Guzzle, Pheanstalk, and many more.
 
 
 ## B
