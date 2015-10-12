@@ -33,6 +33,15 @@ _Mill Creek_, WA 98012
 
 PHP Tech: Silex, Restler, Doctrine2, AWS PHP SDK, Guzzle, Pheanstalk, and many more.
 
+&#160;
+ 
+**Amazon PHP SDK**
+Seatle, WA 
+ 
+[https://aws.amazon.com/sdk-for-php/](https://aws.amazon.com/sdk-for-php/) 
+
+PHP Tech: Guzzle, Composer, JMESPath, PhpUnit, Behat 
+
 
 ## B
 
@@ -54,6 +63,7 @@ Seattle, WA
 
 [http://doubledowninteractive.com/](http://doubledowninteractive.com/)
 
+&#160;
 
 **Dyne**
 Seattle, WA
@@ -72,7 +82,7 @@ Seattle, Washington
 
 [http://www.facebook.com/](http://www.facebook.com/)
 
-
+&#160;
 
 **Fresh Consulting**
 914 140th Ave NE
@@ -124,7 +134,9 @@ Seattle, WA
 [http://www.mheducation.com/](http://www.mheducation.com/)
 [@MHEducation](http://twitter.com/MHEducation) 
 
-Moz
+&#160;
+
+**Moz**
 1100 2nd Avenue
 Suite 500
 Seattle, WA 98101
@@ -169,7 +181,18 @@ Tacoma, WA 98402
 
 [http://www.sitecrafting.com](http://www.sitecrafting.com)
 [sitecrafting](http://www.twitter.com/sitecrafting) 
+ 
+&#160;
 
+**Super Lawyers, a part of Thomson Reuters**
+155 108th Ave NE 
+Suite 600 
+Bellevue, WA  98004 
+ 
+[SuperLawyers.com](http://SuperLawyers.com) 
+ 
+PHP Tech: AWS PHP SDK, little WordPress, some Laravel
+ 
 
 ## T 
 
@@ -181,6 +204,7 @@ Seattle, WA 98103
 [http://www.tableau.com/](http://www.tableau.com/)
 [@tableau](http://www.twitter.com/tableau) 
 
+&#160;
 
 **TUNE** 
 2200 Western Avenue
