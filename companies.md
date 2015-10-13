@@ -2,17 +2,20 @@
 # Companies
  
 When adding a company, sort them by name and use this format:
+
+**Company Name**
 ```
-Company Name
 1 Main St
 Unit 1
 Seattle, WA 98101
+```
 
 http://example.com
-@twitter
+[@username](https://twitter.com/username) 
 
 PHP Tech: e.g. WordPress, Laravel, etc.
-```
+
+----
 
 A collection of companies organized alphabetically. Names that begin with a number e.g. 99 Designs, should be 
 organized under **Numbers**. 
@@ -24,16 +27,17 @@ organized under **Numbers**.
 ## A
 
 **Alegion** 
+```
 16212 Bothell Everett Hwy.
 Suite # F
-_Mill Creek_, WA 98012
-
+Mill Creek, WA 98012
+```
 [https://alegion.com/](https://alegion.com/)
 [@Alegion](http://twitter.com/alegion) 
 
 PHP Tech: Silex, Restler, Doctrine2, AWS PHP SDK, Guzzle, Pheanstalk, and many more.
 
-&#160;
+----
  
 **Amazon PHP SDK**
 Seatle, WA 
@@ -49,10 +53,11 @@ PHP Tech: Guzzle, Composer, JMESPath, PhpUnit, Behat
 ## C
 
 **CoolBlueWeb** 
+```
 615 2nd Ave 
 Suite 100 
-_Seattle_, WA
-
+Seattle, WA
+```
 [http://coolblueweb.com](http://coolblueweb.com) 
 [@CoolBlueWeb](https://twitter.com/CoolBlueWeb) 
 
@@ -63,7 +68,7 @@ Seattle, WA
 
 [http://doubledowninteractive.com/](http://doubledowninteractive.com/)
 
-&#160;
+----
 
 **Dyne**
 Seattle, WA
@@ -77,29 +82,32 @@ Seattle, WA
 ## F 
 
 **Facebook**
+```
 1730 Minor Ave
 Seattle, Washington
-
+```
 [http://www.facebook.com/](http://www.facebook.com/)
 
-&#160;
+----
 
 **Fresh Consulting**
+```
 914 140th Ave NE
 Suite 201
-_Bellevue_, WA 98005
-
+Bellevue, WA 98005
+```
 [http://www.freshconsulting.com/](http://www.freshconsulting.com/)
 [@freshconsulting](http://twitter.com/freshconsulting)
 
 
 ## G 
 
-**GoSolid** 
+**GoSolid**
+```
 5628 Airport Way S
 Suite 220
-_Seattle_, WA 98108
-
+Seattle, WA 98108
+```
 [http://www.gosolid.net/](http://www.gosolid.net/) 
 
 ## H 
@@ -108,10 +116,11 @@ _Seattle_, WA 98108
 ## I 
 
 **iSpot.tv**
+```
 15831 NE 8th St 
 Suite 100
 Bellevue, WA 98008
-
+```
 [iSpot.tv](http://iSpot.tv) 
 [@ispottv](https://twitter.com/ispottv)
 
@@ -134,13 +143,14 @@ Seattle, WA
 [http://www.mheducation.com/](http://www.mheducation.com/)
 [@MHEducation](http://twitter.com/MHEducation) 
 
-&#160;
+---
 
 **Moz**
+```
 1100 2nd Avenue
 Suite 500
 Seattle, WA 98101
-
+```
 [https://moz.com/](https://moz.com/)
 [@moz](http://twitter.com/moz)
 
@@ -159,9 +169,11 @@ Seattle, WA 98101
 ## R 
 
 **RealPage, Inc. (ActiveBuilding)**
-615 2nd Ave, Suite 700,
-_Seattle_, WA 98104
-
+```
+615 2nd Ave
+Suite 700
+Seattle, WA 98104
+```
 [https://www.realpage.com/resident-portal/community](https://www.realpage.com/resident-portal/community)
 [https://activebuilding.com](https://activebuilding.com)
 [@activebuilding](https://twitter.com/activebuilding)
@@ -176,19 +188,21 @@ _Seattle_, WA 98101
 ## S 
 
 **SiteCrafting, Inc**
+```
 2716 A Street
 Tacoma, WA 98402
-
+```
 [http://www.sitecrafting.com](http://www.sitecrafting.com)
 [sitecrafting](http://www.twitter.com/sitecrafting) 
  
-&#160;
+----
 
 **Super Lawyers, a part of Thomson Reuters**
+```
 155 108th Ave NE 
 Suite 600 
 Bellevue, WA  98004 
- 
+``` 
 [SuperLawyers.com](http://SuperLawyers.com) 
  
 PHP Tech: AWS PHP SDK, little WordPress, some Laravel
@@ -197,20 +211,22 @@ PHP Tech: AWS PHP SDK, little WordPress, some Laravel
 ## T 
 
 **Tableau** 
+```
 837 North 34th Street
 Suite 200
 Seattle, WA 98103
-
+```
 [http://www.tableau.com/](http://www.tableau.com/)
 [@tableau](http://www.twitter.com/tableau) 
 
-&#160;
+----
 
 **TUNE** 
+```
 2200 Western Avenue
 Suite 200
 Seattle, WA 98121
-
+```
 http://www.tune.com/
 [@tune](http://www.twitter.com/tune) 
 
