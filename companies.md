@@ -40,7 +40,7 @@ PHP Tech: Silex, Restler, Doctrine2, AWS PHP SDK, Guzzle, Pheanstalk, and many m
 ----
  
 **Amazon PHP SDK**
-Seatle, WA 
+Seattle, WA
  
 [https://aws.amazon.com/sdk-for-php/](https://aws.amazon.com/sdk-for-php/) 
 
@@ -49,6 +49,15 @@ PHP Tech: Guzzle, Composer, JMESPath, PhpUnit, Behat
 
 ## B
 
+**Big Fish Games**
+```
+333 Elliott Avenue West
+Suite 200
+Seattle, WA 98119
+```
+
+[http://www.bigfishgames.com/](http://www.bigfishgames.com/)
+[@bigfishgames](https://twitter.com/bigfishgames)
 
 ## C
 
