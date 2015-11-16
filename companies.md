@@ -77,14 +77,6 @@ Seattle, WA
 
 [http://doubledowninteractive.com/](http://doubledowninteractive.com/)
 
-----
-
-**Dyne**
-Seattle, WA
-
-[https://www.dyne.com/](https://www.dyne.com/)
-[@dyne](https://www.twitter.com/dyne)
-
 ## E 
 
 
