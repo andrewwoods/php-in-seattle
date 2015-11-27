@@ -222,6 +222,16 @@ Seattle, WA 98103
 
 ----
 
+**The Seattle Times** 
+```
+1000 Denny Way
+Seattle, WA 98109
+```
+[http://www.seattletimes.com/](http://www.seattletimes.com/)
+[@seattletimes](http://www.twitter.com/seattletimes) 
+
+----
+
 **TUNE** 
 ```
 2200 Western Avenue
