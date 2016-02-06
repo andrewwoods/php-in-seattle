@@ -230,6 +230,17 @@ Seattle, WA 98103
 
 ----
 
+**TalentWise** 
+```
+19910 North Creek Parkway
+Suite 200
+Bothell, WA 98011
+```
+[http://corp.talentwise.com/](http://corp.talentwise.com/)
+[@talentwise](http://www.twitter.com/talentwise) 
+
+----
+
 **The Seattle Times** 
 ```
 1000 Denny Way
