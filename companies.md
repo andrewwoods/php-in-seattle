@@ -141,7 +141,17 @@ Bellevue, WA 98008
 
 ## L 
 
+**Lightspeed GMI**
+```
+600 108th Ave NE
+Suite 202
+Bellevue, WA 98004
+```
 
+http://www.lightspeedgmi.com/
+[@LightspeedGMI](https://twitter.com/LightspeedGMI) 
+
+PHP Tech: Zend Framework, Symfony
 
 ## M 
 
