@@ -59,6 +59,20 @@ Seattle, WA 98119
 [http://www.bigfishgames.com/](http://www.bigfishgames.com/)
 [@bigfishgames](https://twitter.com/bigfishgames)
 
+----
+
+**BookRags**
+```
+1 Main St
+Unit 1
+Seattle, WA 98101
+```
+
+http://bookrags.com
+[@ArgosOnBookRags](https://twitter.com/ArgosOnBookRags)
+
+PHP Tech: e.g. WordPress, Laravel, etc.
+
 ## C
 
 **CoolBlueWeb** 
