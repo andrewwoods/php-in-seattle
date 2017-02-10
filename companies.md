@@ -92,8 +92,8 @@ Seattle, WA
 
 **Facebook**
 ```
-1730 Minor Ave
-Seattle, Washington
+1101 Dexter Ave N
+Seattle, WA 98109
 ```
 [http://www.facebook.com/](http://www.facebook.com/)
 
