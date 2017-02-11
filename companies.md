@@ -238,6 +238,7 @@ Tacoma, WA 98402
 [http://www.sitecrafting.com](http://www.sitecrafting.com)
 [sitecrafting](http://www.twitter.com/sitecrafting) 
  
+
 ----
 
 **Super Lawyers, a part of Thomson Reuters**
@@ -262,16 +263,6 @@ Seattle, WA 98103
 [http://www.tableau.com/](http://www.tableau.com/)
 [@tableau](http://www.twitter.com/tableau) 
 
-----
-
-**TalentWise** 
-```
-19910 North Creek Parkway
-Suite 200
-Bothell, WA 98011
-```
-[http://corp.talentwise.com/](http://corp.talentwise.com/)
-[@talentwise](http://www.twitter.com/talentwise) 
 
 ----
 
@@ -283,6 +274,17 @@ Seattle, WA 98109
 [http://www.seattletimes.com/](http://www.seattletimes.com/)
 [@seattletimes](http://www.twitter.com/seattletimes) 
 
+----
+
+**Thunder**
+
+```
+Bellevue Corporate Plaza,
+600 108th Ave NE #522,
+Bellevue, WA 98004
+```
+[https://www.makethunder.com/](https://www.makethunder.com/)
+[@makethunder](https://twitter.com/makethunder)
 
 ## U 
 
