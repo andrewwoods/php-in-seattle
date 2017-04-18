@@ -75,6 +75,14 @@ PHP Tech: e.g. WordPress, Laravel, etc.
 
 ## C
 
+**ClientSolv**
+```
+Kirkland, WA
+```
+http://www.clientsolv.com/
+
+----
+
 **CoolBlueWeb** 
 ```
 615 2nd Ave 
@@ -179,6 +187,14 @@ Seattle, WA 98104
 
 ---
 
+**Mobius**
+```
+Kirkland, WA
+```
+http://www.mobiusind.com/
+
+---
+
 **Moz**
 ```
 1100 2nd Avenue
@@ -207,6 +223,13 @@ WA 98104
 
 
 ## Q 
+
+**Quardev**
+```
+2707 NE Blakeley Street
+Seattle, WA 98105
+```
+http://www.quardev.com
 
 
 ## R 
