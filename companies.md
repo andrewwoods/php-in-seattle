@@ -81,6 +81,14 @@ PHP Tech: e.g. WordPress, Laravel, etc.
 
 ## C
 
+**ClientSolv**
+```
+Kirkland, WA
+```
+http://www.clientsolv.com/
+
+----
+
 **CoolBlueWeb**
 
 ```
@@ -189,12 +197,19 @@ PHP Tech: Zend Framework, Symfony
 ## M
 
 **McGraw-Hill Education**
-
-```
 83 S King St
 Seattle, WA 98104
-```
+
 [http://www.mheducation.com/](http://www.mheducation.com/)
+[@MHEducation](http://twitter.com/MHEducation) 
+
+---
+
+**Mobius**
+```
+Kirkland, WA
+```
+http://www.mobiusind.com/
 | [@MHEducation](http://twitter.com/MHEducation)
 
 ---
@@ -229,6 +244,13 @@ Seattle, WA 98104
 
 
 ## Q
+
+**Quardev**
+```
+2707 NE Blakeley Street
+Seattle, WA 98105
+```
+http://www.quardev.com
 
 
 ## R
@@ -265,7 +287,6 @@ Tacoma, WA 98402
 [http://www.sitecrafting.com](http://www.sitecrafting.com)
 | [@sitecrafting](http://www.twitter.com/sitecrafting)
 
-
 ----
 
 **Super Lawyers, a part of Thomson Reuters**
@@ -293,6 +314,16 @@ Seattle, WA 98103
 [http://www.tableau.com/](http://www.tableau.com/)
 | [@tableau](http://www.twitter.com/tableau)
 
+----
+
+**TalentWise** 
+```
+19910 North Creek Parkway
+Suite 200
+Bothell, WA 98011
+```
+[http://corp.talentwise.com/](http://corp.talentwise.com/)
+[@talentwise](http://www.twitter.com/talentwise) 
 
 ----
 
