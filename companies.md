@@ -189,13 +189,16 @@ PHP Tech: Zend Framework, Symfony
 ## M
 
 **McGraw-Hill Education**
+
+```
 83 S King St
 Seattle, WA 98104
 
+```
 [http://www.mheducation.com/](http://www.mheducation.com/)
-[@MHEducation](http://twitter.com/MHEducation) 
+| [@MHEducation](http://twitter.com/MHEducation)
 
----
+----
 
 **Mobius**
 ```
@@ -237,6 +240,7 @@ Seattle, WA 98104
 ## Q
 
 **Quardev**
+
 ```
 2707 NE Blakeley Street
 Seattle, WA 98105
