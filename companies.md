@@ -297,7 +297,19 @@ Bellevue, WA 98004
 
 ## W
 
+**Wave Broadband**
 
+```
+Engineering, Information Technology, Telecommunications
+401 Kirkland Parkplace
+Suite 500
+Kirkland, WA
+```
+
+[https://wavebroadband.com/](https://wavebroadband.com/)
+| [@username](https://twitter.com/username)
+
+PHP Tech: e.g. WordPress, Laravel, etc.
 
 
 ## X
