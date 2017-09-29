@@ -1,24 +1,25 @@
 
 # Companies
- 
+
 When adding a company, sort them by name and use this format:
 
 **Company Name**
+
 ```
 1 Main St
 Unit 1
 Seattle, WA 98101
 ```
 
-http://example.com
-[@username](https://twitter.com/username) 
+[http://example.com](http://example.com)
+| [@username](https://twitter.com/username)
 
 PHP Tech: e.g. WordPress, Laravel, etc.
 
 ----
 
-A collection of companies organized alphabetically. Names that begin with a number e.g. 99 Designs, should be 
-organized under **Numbers**. 
+A collection of companies organized alphabetically. Names that begin with a number e.g. 99 Designs, should be
+organized under **Numbers**.
 
 
 ## Numbers
@@ -26,30 +27,34 @@ organized under **Numbers**.
 
 ## A
 
-**Alegion** 
+**Alegion**
+
 ```
 16212 Bothell Everett Hwy.
-Suite # F
+Suite #F
 Mill Creek, WA 98012
 ```
 [https://alegion.com/](https://alegion.com/)
-[@Alegion](http://twitter.com/alegion) 
+| [@Alegion](http://twitter.com/alegion)
 
 PHP Tech: Silex, Restler, Doctrine2, AWS PHP SDK, Guzzle, Pheanstalk, and many more.
 
 ----
- 
-**Amazon PHP SDK**
-Seattle, WA
- 
-[https://aws.amazon.com/sdk-for-php/](https://aws.amazon.com/sdk-for-php/) 
 
-PHP Tech: Guzzle, Composer, JMESPath, PhpUnit, Behat 
+**Amazon PHP SDK**
+
+```
+Seattle, WA
+```
+[https://aws.amazon.com/sdk-for-php/](https://aws.amazon.com/sdk-for-php/)
+
+PHP Tech: Guzzle, Composer, JMESPath, PhpUnit, Behat
 
 
 ## B
 
 **Big Fish Games**
+
 ```
 333 Elliott Avenue West
 Suite 200
@@ -57,47 +62,54 @@ Seattle, WA 98119
 ```
 
 [http://www.bigfishgames.com/](http://www.bigfishgames.com/)
-[@bigfishgames](https://twitter.com/bigfishgames)
+| [@bigfishgames](https://twitter.com/bigfishgames)
 
 ----
 
 **BookRags**
+
 ```
 1 Main St
 Unit 1
 Seattle, WA 98101
 ```
 
-http://bookrags.com
-[@ArgosOnBookRags](https://twitter.com/ArgosOnBookRags)
+[http://bookrags.com](http://bookrags.com)
+| [@ArgosOnBookRags](https://twitter.com/ArgosOnBookRags)
 
 PHP Tech: e.g. WordPress, Laravel, etc.
 
 ## C
 
-**CoolBlueWeb** 
+**CoolBlueWeb**
+
 ```
-615 2nd Ave 
-Suite 100 
+615 2nd Ave
+Suite 100
 Seattle, WA
 ```
-[http://coolblueweb.com](http://coolblueweb.com) 
-[@CoolBlueWeb](https://twitter.com/CoolBlueWeb) 
+[http://coolblueweb.com](http://coolblueweb.com)
+| [@CoolBlueWeb](https://twitter.com/CoolBlueWeb)
 
 ## D
 
 **Disney (The Walt Disney Company)**
+
 ```
-925 4th Ave #1600
+925 4th Ave
+#1600
 Seattle, WA 98104
 ```
 [http://disneytechjobs.com](http://disneytechjobs.com)
 
+
 PHP Tech: WordPress, Zend, Misc
 
 **DoubleDown**
-Seattle, WA
 
+```
+Seattle, WA
+```
 [http://doubledowninteractive.com/](http://doubledowninteractive.com/)
 
 ## E
@@ -106,6 +118,7 @@ Seattle, WA
 ## F
 
 **Facebook**
+
 ```
 1101 Dexter Ave N
 Seattle, WA 98109
@@ -115,6 +128,7 @@ Seattle, WA 98109
 ----
 
 **Fresh Consulting**
+
 ```
 914 140th Ave NE
 Suite 201
@@ -127,12 +141,14 @@ Bellevue, WA 98005
 ## G
 
 **GoSolid**
+
 ```
 5628 Airport Way S
 Suite 220
 Seattle, WA 98108
 ```
-[http://www.gosolid.net/](http://www.gosolid.net/) 
+[http://www.gosolid.net/](http://www.gosolid.net/)
+| [@theRealGoSolid](http://twitter.com/theRealGoSolid)
 
 ## H
 
@@ -140,13 +156,14 @@ Seattle, WA 98108
 ## I
 
 **iSpot.tv**
+
 ```
-15831 NE 8th St 
+15831 NE 8th St
 Suite 100
 Bellevue, WA 98008
 ```
-[iSpot.tv](http://iSpot.tv) 
-[@ispottv](https://twitter.com/ispottv)
+[iSpot.tv](http://iSpot.tv)
+| [@ispottv](https://twitter.com/ispottv)
 
 ## J
 
@@ -157,44 +174,49 @@ Bellevue, WA 98008
 ## L
 
 **Lightspeed**
+
 ```
 600 108th Ave NE
 Suite 202
 Bellevue, WA 98004
 ```
 
-http://www.lightspeedresearch.com/
-[@LightspeedGMI](https://twitter.com/LightspeedGMI) 
+[http://www.lightspeedresearch.com/](http://www.lightspeedresearch.com/)
+| [@LightspeedGMI](https://twitter.com/LightspeedGMI)
 
 PHP Tech: Zend Framework, Symfony
 
 ## M
 
-**McGraw-Hill Education** 
+**McGraw-Hill Education**
+
+```
 83 S King St
 Seattle, WA 98104
-
+```
 [http://www.mheducation.com/](http://www.mheducation.com/)
-[@MHEducation](http://twitter.com/MHEducation) 
+| [@MHEducation](http://twitter.com/MHEducation)
 
 ---
 
 **Moz**
+
 ```
 1100 2nd Avenue
 Suite 500
 Seattle, WA 98101
 ```
 [https://moz.com/](https://moz.com/)
-[@moz](http://twitter.com/moz)
+| [@moz](http://twitter.com/moz)
 
 ## N
 
 **NBC Universal**
+
 ```
 26th Floor of Columbia Center
-701 5th Ave, Seattle, 
-WA 98104
+701 5th Ave
+Seattle, WA 98104
 ```
 [Today](http://www.today.com)
 
@@ -212,6 +234,7 @@ WA 98104
 ## R
 
 **RealPage, Inc. (ActiveBuilding)**
+
 ```
 615 2nd Ave
 Suite 700
@@ -222,35 +245,40 @@ Seattle, WA 98104
 [@activebuilding](https://twitter.com/activebuilding)
 
 **Remitly, Inc.**
-1601 2nd Ave., Suite 700,
-_Seattle_, WA 98101
 
+```
+1601 2nd Ave.
+Suite 700
+Seattle, WA 98101
+```
 [https://www.remitly.com](https://www.remitly.com)
-[@remitly](https://twitter.com/remitly)
+| [@remitly](https://twitter.com/remitly)
 
 ## S
 
 **SiteCrafting, Inc**
+
 ```
 2716 A Street
 Tacoma, WA 98402
 ```
 [http://www.sitecrafting.com](http://www.sitecrafting.com)
-[sitecrafting](http://www.twitter.com/sitecrafting) 
- 
+| [@sitecrafting](http://www.twitter.com/sitecrafting)
+
 
 ----
 
 **Super Lawyers, a part of Thomson Reuters**
+
 ```
-155 108th Ave NE 
-Suite 600 
-Bellevue, WA  98004 
-``` 
-[SuperLawyers.com](http://SuperLawyers.com) 
- 
+155 108th Ave NE
+Suite 600
+Bellevue, WA  98004
+```
+
+[SuperLawyers.com](http://SuperLawyers.com)
+
 PHP Tech: AWS PHP SDK, little WordPress, some Laravel
- 
 
 
 ## T
@@ -263,31 +291,32 @@ Suite 200
 Seattle, WA 98103
 ```
 [http://www.tableau.com/](http://www.tableau.com/)
-[@tableau](http://www.twitter.com/tableau) 
+| [@tableau](http://www.twitter.com/tableau)
 
 
 ----
 
-**The Seattle Times** 
+**The Seattle Times**
+
 ```
 1000 Denny Way
 Seattle, WA 98109
 ```
 [http://www.seattletimes.com/](http://www.seattletimes.com/)
-[@seattletimes](http://www.twitter.com/seattletimes) 
+| [@seattletimes](http://www.twitter.com/seattletimes)
 
 ----
 
 **Thunder**
 
 ```
-Bellevue Corporate Plaza,
-600 108th Ave NE #522,
+Bellevue Corporate Plaza
+600 108th Ave NE
+#522
 Bellevue, WA 98004
 ```
 [https://www.makethunder.com/](https://www.makethunder.com/)
-[@makethunder](https://twitter.com/makethunder)
-
+| [@makethunder](https://twitter.com/makethunder)
 
 ## U
 
