@@ -84,7 +84,7 @@ Seattle, WA
 [http://coolblueweb.com](http://coolblueweb.com) 
 [@CoolBlueWeb](https://twitter.com/CoolBlueWeb) 
 
-## D 
+## D
 
 **Disney (The Walt Disney Company)**
 ```
@@ -100,10 +100,10 @@ Seattle, WA
 
 [http://doubledowninteractive.com/](http://doubledowninteractive.com/)
 
-## E 
+## E
 
 
-## F 
+## F
 
 **Facebook**
 ```
@@ -124,7 +124,7 @@ Bellevue, WA 98005
 [@freshconsulting](http://twitter.com/freshconsulting)
 
 
-## G 
+## G
 
 **GoSolid**
 ```
@@ -134,10 +134,10 @@ Seattle, WA 98108
 ```
 [http://www.gosolid.net/](http://www.gosolid.net/) 
 
-## H 
+## H
 
 
-## I 
+## I
 
 **iSpot.tv**
 ```
@@ -148,13 +148,13 @@ Bellevue, WA 98008
 [iSpot.tv](http://iSpot.tv) 
 [@ispottv](https://twitter.com/ispottv)
 
-## J 
+## J
 
 
-## K 
+## K
 
 
-## L 
+## L
 
 **Lightspeed**
 ```
@@ -168,7 +168,7 @@ http://www.lightspeedresearch.com/
 
 PHP Tech: Zend Framework, Symfony
 
-## M 
+## M
 
 **McGraw-Hill Education** 
 83 S King St
@@ -188,7 +188,7 @@ Seattle, WA 98101
 [https://moz.com/](https://moz.com/)
 [@moz](http://twitter.com/moz)
 
-## N 
+## N
 
 **NBC Universal**
 ```
@@ -200,16 +200,16 @@ WA 98104
 
 [NBC News](http://www.nbcnews.com)
 
-## O 
+## O
 
 
-## P 
+## P
 
 
-## Q 
+## Q
 
 
-## R 
+## R
 
 **RealPage, Inc. (ActiveBuilding)**
 ```
@@ -228,7 +228,7 @@ _Seattle_, WA 98101
 [https://www.remitly.com](https://www.remitly.com)
 [@remitly](https://twitter.com/remitly)
 
-## S 
+## S
 
 **SiteCrafting, Inc**
 ```
@@ -252,9 +252,11 @@ Bellevue, WA  98004
 PHP Tech: AWS PHP SDK, little WordPress, some Laravel
  
 
-## T 
 
-**Tableau** 
+## T
+
+**Tableau**
+
 ```
 837 North 34th Street
 Suite 200
@@ -286,22 +288,24 @@ Bellevue, WA 98004
 [https://www.makethunder.com/](https://www.makethunder.com/)
 [@makethunder](https://twitter.com/makethunder)
 
-## U 
+
+## U
 
 
-## V 
+## V
 
 
-## W 
- 
+## W
 
 
-## X 
 
 
-## Y 
+## X
 
 
-## Z 
+## Y
+
+
+## Z
 
 
