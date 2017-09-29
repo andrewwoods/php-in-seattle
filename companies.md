@@ -278,6 +278,17 @@ Seattle, WA 98101
 
 ## S
 
+**Seattle Times**
+
+```
+1000 Denny Way
+Seattle, WA 98109
+```
+[http://www.seattletimes.com/](http://www.seattletimes.com/)
+| [@seattletimes](http://www.twitter.com/seattletimes)
+
+----
+
 **SiteCrafting, Inc**
 
 ```
@@ -316,25 +327,15 @@ Seattle, WA 98103
 
 ----
 
-**TalentWise** 
+**TalentWise**
+
 ```
 19910 North Creek Parkway
 Suite 200
 Bothell, WA 98011
 ```
 [http://corp.talentwise.com/](http://corp.talentwise.com/)
-[@talentwise](http://www.twitter.com/talentwise) 
-
-----
-
-**The Seattle Times**
-
-```
-1000 Denny Way
-Seattle, WA 98109
-```
-[http://www.seattletimes.com/](http://www.seattletimes.com/)
-| [@seattletimes](http://www.twitter.com/seattletimes)
+| [@talentwise](http://www.twitter.com/talentwise)
 
 ----
 
