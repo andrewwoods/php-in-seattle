@@ -81,14 +81,6 @@ PHP Tech: e.g. WordPress, Laravel, etc.
 
 ## C
 
-**ClientSolv**
-```
-Kirkland, WA
-```
-http://www.clientsolv.com/
-
-----
-
 **CoolBlueWeb**
 
 ```
@@ -210,7 +202,6 @@ Seattle, WA 98104
 Kirkland, WA
 ```
 http://www.mobiusind.com/
-| [@MHEducation](http://twitter.com/MHEducation)
 
 ---
 
