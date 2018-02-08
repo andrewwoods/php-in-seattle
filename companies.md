@@ -25,7 +25,7 @@ organized under **Numbers**.
 ## Numbers
 
 
-## A
+----
 
 **Alegion**
 
@@ -35,7 +35,7 @@ Suite #F
 Mill Creek, WA 98012
 ```
 [https://alegion.com/](https://alegion.com/)
-| [@Alegion](http://twitter.com/alegion)
+| [@Alegion](https://twitter.com/alegion)
 
 PHP Tech: Silex, Restler, Doctrine2, AWS PHP SDK, Guzzle, Pheanstalk, and many more.
 
@@ -77,7 +77,7 @@ Seattle, WA 98101
 [http://bookrags.com](http://bookrags.com)
 | [@ArgosOnBookRags](https://twitter.com/ArgosOnBookRags)
 
-PHP Tech: e.g. WordPress, Laravel, etc.
+
 
 ## C
 
@@ -108,7 +108,8 @@ PHP Tech: WordPress, Zend, Misc
 **DoubleDown**
 
 ```
-Seattle, WA
+605 5th Ave S #300
+Seattle, WA 98104
 ```
 [http://doubledowninteractive.com/](http://doubledowninteractive.com/)
 
@@ -124,6 +125,8 @@ Seattle, WA
 Seattle, WA 98109
 ```
 [http://www.facebook.com/](http://www.facebook.com/)
+| [@Facebook](https://twitter.com/facebook)
+PHP Tech: Hack
 
 ----
 
@@ -135,7 +138,7 @@ Suite 201
 Bellevue, WA 98005
 ```
 [http://www.freshconsulting.com/](http://www.freshconsulting.com/)
-[@freshconsulting](http://twitter.com/freshconsulting)
+| [@freshconsulting](https://twitter.com/freshconsulting)
 
 
 ## G
@@ -148,7 +151,7 @@ Suite 220
 Seattle, WA 98108
 ```
 [http://www.gosolid.net/](http://www.gosolid.net/)
-| [@theRealGoSolid](http://twitter.com/theRealGoSolid)
+| [@theRealGoSolid](https://twitter.com/theRealGoSolid)
 
 ## H
 
@@ -196,11 +199,12 @@ Seattle, WA 98104
 
 ```
 [http://www.mheducation.com/](http://www.mheducation.com/)
-| [@MHEducation](http://twitter.com/MHEducation)
+| [@MHEducation](https://twitter.com/MHEducation)
 
 ----
 
 **Mobius**
+
 ```
 Kirkland, WA
 ```
@@ -216,7 +220,7 @@ Suite 500
 Seattle, WA 98101
 ```
 [https://moz.com/](https://moz.com/)
-| [@moz](http://twitter.com/moz)
+| [@moz](https://twitter.com/moz)
 
 ## N
 
@@ -280,7 +284,7 @@ Seattle, WA 98101
 Seattle, WA 98109
 ```
 [http://www.seattletimes.com/](http://www.seattletimes.com/)
-| [@seattletimes](http://www.twitter.com/seattletimes)
+| [@seattletimes](https://twitter.com/seattletimes)
 
 ----
 
@@ -291,7 +295,7 @@ Seattle, WA 98109
 Tacoma, WA 98402
 ```
 [http://www.sitecrafting.com](http://www.sitecrafting.com)
-| [@sitecrafting](http://www.twitter.com/sitecrafting)
+| [@sitecrafting](https://twitter.com/sitecrafting)
 
 ----
 
@@ -318,7 +322,7 @@ Suite 200
 Seattle, WA 98103
 ```
 [http://www.tableau.com/](http://www.tableau.com/)
-| [@tableau](http://www.twitter.com/tableau)
+| [@tableau](https://twitter.com/tableau)
 
 ----
 
@@ -330,7 +334,7 @@ Suite 200
 Bothell, WA 98011
 ```
 [http://corp.talentwise.com/](http://corp.talentwise.com/)
-| [@talentwise](http://www.twitter.com/talentwise)
+| [@talentwise](https://twitter.com/talentwise)
 
 ----
 
@@ -363,9 +367,7 @@ Kirkland, WA
 ```
 
 [https://wavebroadband.com/](https://wavebroadband.com/)
-| [@username](https://twitter.com/username)
-
-PHP Tech: e.g. WordPress, Laravel, etc.
+| [@WaveAlerts](https://twitter.com/wavealerts), [@GoWave_G](https://twitter.com/gowave_g)
 
 
 ## X
