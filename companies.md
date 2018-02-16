@@ -250,17 +250,6 @@ http://www.quardev.com
 
 ## R
 
-**RealPage, Inc. (ActiveBuilding)**
-
-```
-615 2nd Ave
-Suite 700
-Seattle, WA 98104
-```
-[https://www.realpage.com/resident-portal/community](https://www.realpage.com/resident-portal/community)
-[https://activebuilding.com](https://activebuilding.com)
-[@activebuilding](https://twitter.com/activebuilding)
-
 **Remitly, Inc.**
 
 ```
