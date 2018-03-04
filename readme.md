@@ -17,7 +17,6 @@ know of any PHP-based companies with offices in the Seattle area, add them here.
 They're helpful for people who are looking for jobs. So to make things easy, we added a markdown file for recruiters and staffing companies.
 
 * Use the recruiters.md file
-* Need to have a presence in Seattle Area
 * Try to limit to companies within 20 miles.
 
 [Recruiters](recruiters.md)
