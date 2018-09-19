@@ -635,6 +635,15 @@ Kirkland, WA
 
 ## Z
 
+**zulily**
+
+```
+2601 Elliott Ave
+Seattle, WA 98121
+```
+
+https://www.zulily.com/
+
 **Zonar**
 
 ```
