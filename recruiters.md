@@ -30,6 +30,8 @@
 
 [Enterprise Solutions Inc.](https://www2.jobdiva.com/candidates/myjobs/searchjobsdone.jsp?a=rkjdnwphgwkjkoeucbywrad0lul6kx01d1i0be0xc3fmt2lid3nftbgi74ybdlvq)
 
+[Fuel Talent](http://fueltalent.com/)*
+
 [Greenlight Staffing Group](https://www2.jobdiva.com/candidates/myjobs/searchjobsdone.jsp?a=hijdnwa81gyugmkv7rhuhh9h4crd6901acl7u2w89a8elohs0wu6i6j4gunu7by4)
 
 [ICONMA, LLC](https://www2.jobdiva.com/candidates/myjobs/searchjobsdone.jsp?a=9bjdnw2mlhip8doaz2t0q9w4wphk960418ms6mtfp5oxvgnr76bfafpnr8c62y27)
