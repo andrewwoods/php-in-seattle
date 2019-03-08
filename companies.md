@@ -269,6 +269,15 @@ Bellevue, WA 98005
 
 ## G
 
+**GenUI**
+
+```
+3417 Evanston Ave N #501
+Seattle, WA 98103
+```
+
+http://www.genui.co
+
 **GoSolid**
 
 ```
@@ -634,6 +643,15 @@ Kirkland, WA
 
 
 ## Z
+
+**zulily**
+
+```
+2601 Elliott Ave
+Seattle, WA 98121
+```
+
+https://www.zulily.com/
 
 **Zonar**
 
