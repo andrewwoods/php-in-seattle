@@ -343,6 +343,16 @@ Bellevue, WA 98004
 
 PHP Tech: Zend Framework, Symfony
 
+**Loopie Inc.**
+
+```
+159 Western Avenue West, Suite A450
+Seattle, WA 98119
+```
+[https://www.loopie.us/](https://www.loopie.us/)
+| [@loopielaundry](https://twitter.com/loopielaundry)
+
+
 **League Lab**
 ```
 426 Yale Ave N
